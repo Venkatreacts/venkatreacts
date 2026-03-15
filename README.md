@@ -1,34 +1,85 @@
+<!-- README.md for venkatreacts -->
+<!-- Paste this into your repo named `venkatreacts` -->
+
+<!-- HERO -->
 <h1 align="center">Hi 👋, I'm Venkatanathan O R V</h1>
 <h3 align="center">CSE-AIML Student | AI + Space Tech Enthusiast | Building Intelligent Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatreacts&label=Profile%20views&color=0e75b6&style=flat" alt="venkatreacts" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatreacts" alt="venkatreacts" /></a> </p>
-
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, Computational Biology, and Large-Scale AI Systems**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning & Real-time IoT Systems**
-
-- 💬 Ask me about **Python, Machine Learning, AI Projects, Space Tech, Hackathons**
-
-- 📫 How to reach me **vo6649@srmist.edu.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lrJjoQno_wziKEVokl4HCF7Q-cvb3LZh/view?usp=sharing](https://drive.google.com/file/d/1lrJjoQno_wziKEVokl4HCF7Q-cvb3LZh/view?usp=sharing)
-
-- ⚡ Fun fact **I’m more interested in space missions than sleep 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/venkatreacts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatreacts" height="30" width="40" /></a>
-<a href="https://kaggle.com/venkatreacts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkatreacts" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/venkatreacts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkatreacts" height="30" width="40" /></a>
+<p align="center">
+  <!-- animated typing SVG (customize lines in URL) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&width=720&lines=Building+AI+systems+%7C+Hackathons+%7C+Space+Curious;Turning+ideas+into+prototypes;Let's+build+something+cool%F0%9F%9A%80" alt="typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatreacts&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=venkatreacts&theme=radical" alt="trophy" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatreacts&show_icons=true&locale=en&layout=compact" alt="venkatreacts" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatreacts&show_icons=true&locale=en" alt="venkatreacts" /></p>
+## 🔭 About Me
+I’m a CSE-AIML student who loves building ML systems, prototyping IoT + AI projects, and dabbling in space data experiments. I do hackathons, messy prototypes, and occasional late-night experiments that may or may not involve rocket gifs. 🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatreacts&" alt="venkatreacts" /></p>
+- 🌱 Currently learning **Deep Learning, Computer Vision, Computational Biology, Large-Scale AI Systems**  
+- 🤝 Looking for help with **Advanced ML & Real-time IoT Systems**  
+- 💬 Ask me about **Python, ML, Space Tech, Hackathons**  
+- 📫 Reach me: **[vo6649@srmist.edu.in](mailto:vo6649@srmist.edu.in)**  
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1lrJjoQno_wziKEVokl4HCF7Q-cvb3LZh/view?usp=sharing)  
+- ⚡ Fun fact: *I’m more interested in space missions than sleep.* 🚀
+
+---
+
+## 🚀 Featured Projects
+> Click the cards to explore — replace repo names below with your actual repo slugs.
+
+| Project | Short |
+|---:|:---|
+| <a href="https://github.com/venkatreacts/AI-Evacuation-System" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatreacts&repo=AI-Evacuation-System&theme=radical" /></a> | IoT + ML system to predict and guide evacuation routes in emergencies. |
+| <a href="https://github.com/venkatreacts/CRISPR-Sim" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatreacts&repo=CRISPR-Sim&theme=radical" /></a> | Animated CRISPR-Cas9 simulation for learning & demo (Python). |
+| <a href="https://github.com/venkatreacts/space-data-analysis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatreacts&repo=space-data-analysis&theme=radical" /></a> | Exploratory ML on satellite / space datasets. |
+
+---
+
+## 🧠 Tech Stack (focused & real)
+<p>
+  <!-- Badges: swap or remove ones you don't actually use -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+> Keep this list tight — pick only tools you actually use.
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatreacts&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatreacts&show_icons=true&locale=en&theme=radical" alt="github stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatreacts&theme=react-dark" alt="streak" />
+</p>
+
+---
+
+## ✨ Extras — dynamic & playful
+- **Animated typing** above (update the `readme-typing-svg` URL lines to change messages).  
+- **Project cards** are generated from `github-readme-stats` pins — swap repo names to pin your best work.  
+- Want a subtle visual flair? Add an animated GIF (e.g., a small space GIF) near the top:
+```html
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260" alt="space-gif" />
+</p>
