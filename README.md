@@ -1,8 +1,9 @@
 <!-- VENKY.EXE / A profile README designed as a compact mission-control interface -->
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero/hero-light.svg">
-    <img src="assets/hero/hero-dark.svg" alt="Venky: building intelligent systems and exploring beyond boundaries" width="100%">
+    <img src="assets/hero/hero-static.svg" alt="Venky: building intelligent systems and exploring beyond boundaries" width="100%">
   </picture>
 </p>
 
