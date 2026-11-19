@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="t d">
+<title id="t">VENKY.EXE — Beyond the ordinary</title><desc id="d">An original cosmic mission-control scene with a blue planet, orbital arcs, satellite and spacecraft around Venky's identity.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#05070d"/><stop offset=".58" stop-color="#0a1426"/><stop offset="1" stop-color="#111a32"/></linearGradient>
+ <radialGradient id="neb"><stop stop-color="#6671c3" stop-opacity=".38"/><stop offset="1" stop-color="#6671c3" stop-opacity="0"/></radialGradient>
+ <linearGradient id="pl" x2=".9" y2="1"><stop stop-color="#a2eaff"/><stop offset=".38" stop-color="#4e9ed1"/><stop offset=".78" stop-color="#243c78"/><stop offset="1" stop-color="#111a3b"/></linearGradient>
+ <linearGradient id="ring"><stop stop-color="#70ddff" stop-opacity="0"/><stop offset=".5" stop-color="#a5e9ff"/><stop offset="1" stop-color="#70ddff" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+ <clipPath id="pc"><circle cx="1300" cy="276" r="142"/></clipPath>
+</defs>
+<rect width="1600" height="560" rx="24" fill="url(#bg)"/><ellipse cx="1080" cy="250" rx="620" ry="310" fill="url(#neb)"/>
+<g fill="#c8eaff">
+<circle cx="80" cy="54" r="1.4" opacity=".55"/><circle cx="190" cy="90" r="1" opacity=".35"/><circle cx="330" cy="44" r="2" opacity=".5"/><circle cx="500" cy="130" r="1.5" opacity=".35"/><circle cx="700" cy="62" r="1" opacity=".45"/><circle cx="850" cy="158" r="2" opacity=".35"/><circle cx="945" cy="58" r="1.5" opacity=".5"/><circle cx="1510" cy="54" r="1.5" opacity=".5"/><circle cx="1460" cy="185" r="1" opacity=".4"/><circle cx="1540" cy="310" r="2" opacity=".55"/><circle cx="1100" cy="45" r="1" opacity=".45"/><circle cx="900" cy="405" r="1.5" opacity=".35"/><circle cx="120" cy="320" r="2" opacity=".4"/><circle cx="520" cy="465" r="1" opacity=".5"/><circle cx="715" cy="492" r="1.5" opacity=".3"/><circle cx="1480" cy="490" r="1" opacity=".5"/>
+</g>
+<g opacity=".14" stroke="#5baed8"><path d="M0 460H1600M0 486H1600M0 512H1600M0 538H1600"/><path d="M1060 0V560M1160 0V560M1260 0V560M1360 0V560M1460 0V560M1560 0V560"/></g>
+<g fill="none" stroke="#6edbff" opacity=".38"><ellipse cx="1255" cy="276" rx="330" ry="104" transform="rotate(-19 1255 276)" stroke-dasharray="5 12"/><ellipse cx="1255" cy="276" rx="405" ry="142" transform="rotate(18 1255 276)" stroke-dasharray="2 12"/></g>
+<circle cx="1300" cy="276" r="175" fill="#4b95d5" opacity=".15" filter="url(#glow)"/><circle cx="1300" cy="276" r="142" fill="url(#pl)"/>
+<g clip-path="url(#pc)" opacity=".3" fill="none" stroke="#d8f6ff" stroke-width="14"><path d="M1125 228q90-54 180 10t170-2M1130 322q110-40 188 16t160-6M1160 145q55 45 112 14t120 16"/></g>
+<ellipse cx="1300" cy="276" rx="220" ry="51" fill="none" stroke="url(#ring)" stroke-width="7" transform="rotate(-16 1300 276)"/><ellipse cx="1300" cy="276" rx="236" ry="57" fill="none" stroke="#83dcff" stroke-opacity=".3" transform="rotate(-16 1300 276)"/>
+<g transform="translate(1030 125)" stroke="#d8efff" stroke-width="2" fill="#a8c9e4"><rect x="-23" y="-8" width="46" height="16" rx="4"/><path d="M-70-18h42v36h-42zM28-18h42v36H28z" fill="#274d83" stroke="#6bd9ff"/><path d="M-12-8L0-27 12-8v16L0 27-12 8z" fill="#d9e8f4"/><path d="M0-27V-42M0 27V42" stroke="#74dfff"/></g>
+<g transform="translate(1460 420)"><path d="M-52 0L-5-14 28-5 50 0 28 5-5 14z" fill="#dbeeff" stroke="#7adfff" stroke-width="2"/><path d="M-8-13L-27-29-18-9M-8 13L-27 29-18 9" fill="#6387b4" stroke="#9fe9ff"/><path d="M-52 0h-28" stroke="#ffcf86" stroke-width="4" stroke-linecap="round"></path></g>
+<g fill="#8adfff" font-family="monospace" font-size="12" letter-spacing="2"><text x="1180" y="54">ORBITAL FIELD / 01</text><text x="1450" y="520" text-anchor="end">SIGNAL: ACQUIRED</text><text x="72" y="510">FIELD NOTES // BUILD · TEST · EXPLORE</text></g>
+<path d="M72 476H620" stroke="#5bd8fa" stroke-opacity=".6"/><circle cx="620" cy="476" r="3" fill="#8cf5b2"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="72" y="95" fill="#87dff6" font-size="15" letter-spacing="5">VENKY.EXE / DIGITAL IDENTITY</text><text x="68" y="203" fill="#f4f7fb" font-size="76" font-weight="700" letter-spacing="-2">VENKATANATHAN</text><text x="72" y="286" fill="#f4f7fb" font-size="76" font-weight="700" letter-spacing="1">O R V</text><text x="75" y="340" fill="#a9bfd3" font-size="23" letter-spacing="1">BUILDING INTELLIGENT SYSTEMS.</text><text x="75" y="373" fill="#a9bfd3" font-size="23" letter-spacing="1">EXPLORING BEYOND BOUNDARIES.</text><text x="75" y="426" fill="#7b91aa" font-size="15" letter-spacing="1">CSE · ARTIFICIAL INTELLIGENCE &amp; MACHINE LEARNING</text><text x="75" y="450" fill="#7b91aa" font-size="15" letter-spacing="1">SRM INSTITUTE OF SCIENCE AND TECHNOLOGY / 2024—2028</text></g>
+<rect x="22" y="22" width="1556" height="516" rx="16" fill="none" stroke="#9bdff5" stroke-opacity=".22"/><path d="M22 72V22H72M1528 22h50v50M22 488v50h50M1528 538h50v-50" fill="none" stroke="#72dfff" stroke-width="2"/>
+</svg>
